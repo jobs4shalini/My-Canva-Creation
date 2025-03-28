@@ -1,1 +1,1 @@
-# My-Canva-Creation
+# My-Canva-Creation : Canva is a powerful tool to create online graphic designs, posters, social media posts, presentations, videos, logos and much more. Here i've tried my hands on Canva to create some corporate hiring invitations, webinar and events invitations.
